@@ -12,12 +12,6 @@ O **Factory Method** é um padrão de design creacional que oferece uma interfac
 
 Para rodar este projeto, siga as instruções abaixo:
 
-### Pré-requisitos
-
-- PHP 7.4 ou superior
-- Composer
-- Laravel 8.x ou superior
-
 ### Passos para rodar
 
 1. **Clone o repositório**
@@ -25,11 +19,17 @@ Para rodar este projeto, siga as instruções abaixo:
    Abra o terminal e clone o repositório com o comando:
 
    ```bash
-   git clone 
+   git clone https://github.com/alinehoffmann123/DessignPatternsFactorMethod.git
+   cd DesignPatterns
    ```
 
+2. **Rodando o servidor local: Inicie o servidor de desenvolvimento**:
 
+   ```bash
+   php artisan serve
+   ```
 
+## Perguntas
 
 1. **Foram implementados dois padrões de projeto e o problema foi explicado pelos alunos de acordo com o escopo da questão?**
 
